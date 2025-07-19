@@ -3,9 +3,11 @@
 
 # Hi there!👋 I'm Jeethendra S R
 
+<!-- [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=jeethendra2000&data=followers,repositories,stars,commits&hide_border=true)](https://github.com/jeethendra2000) -->
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Software+Engineer;Full+Stack+Developer;Microsoft+Certified+Professional;Problem+Solver+%26+Innovator)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeethendra2000) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jeethendra2000) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeethendrajeethu8@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeethendra2000) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jeethendra2000) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeethendrajeethu8@gmail.com) ![Profile Views](https://komarev.com/ghpvc/?username=jeethendra2000&color=brightgreen&style=for-the-badge)
 
 **📍 Bangalore, India | 📱 +91 7676373298**
 
@@ -64,19 +66,19 @@ I thrive on continuous learning, solving real-world problems with innovative tec
 
 <div align="Left">
 
-### 🥇 Competitive Programming
-* **Google Code Jam 2021** - Ranked **5,735 among 93,000 participants**
+### 🥇 Google Code Jam 2021
+* Ranked **5,735 among 93,000 participants**
 
 ### 📜 Microsoft Certifications
 1. ![Power Platform Developer](https://img.shields.io/badge/Power_Platform_Developer-Associate-0078D4?style=flat-square&logo=microsoft) 
 2. ![Power Platform Fundamentals](https://img.shields.io/badge/Power_Platform-Fundamentals-0078D4?style=flat-square&logo=microsoft)
 
-### 👥 Leadership
-* **Coding Club Founder** - Empowered students with valuable programming knowledge
+### 👥 Coding Club Founder
+* Empowered students with valuable programming knowledge and organized Coding Contest in GECH
 
 </div>
 
-## 🚀 Featured Projects
+<!-- ## 🚀 Featured Projects
 
 ### 🎓 [Informatsy](https://github.com/jeethendra2000/informatsy) - Academic Platform 
 
@@ -155,7 +157,7 @@ I thrive on continuous learning, solving real-world problems with innovative tec
 - ⚡ **Real-time sports news** delivery system
 - 📱 Modern web interface with Next.js frontend
 - 🔄 Live updates to keep users informed
-- 🏆 Comprehensive sports coverage and analytics
+- 🏆 Comprehensive sports coverage and analytics -->
 
 <!-- 
 ## 🎯 What I'm Working On
@@ -216,5 +218,6 @@ I'm always interested in discussing new opportunities, collaboration on exciting
 ### 💡 "In order to be irreplaceable, one must always be different” – Coco Chanel
 
 *Thanks for visiting my profile! Don't forget to ⭐ some repositories if you find them interesting!*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 
 </div>
