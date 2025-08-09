@@ -15,9 +15,13 @@
 
 ## 🚀 About Me
 
-I'm a passionate and result-orient **Software Engineer** with over 3 years of experience in full-stack development, specializing in modern web technologies and cloud-based enterprise solutions. Currently working at **Kerv Digital**, I focus on delivering custom solutions using ing Dynamics CRM, Azure, and agile development practices.
+I'm a passionate, result-orient and dedicated **Software Engineer** with 3+ years of experience in building full-stack applications, specializing in modern web technologies and cloud-based enterprise solutions.
 
-I thrive on continuous learning, solving real-world problems with innovative technologies, and delivering impactful applications that scale. My approach blends technical depth with a strong user focus and a commitment to clean, maintainable code.
+Skilled in backend development, plugin customization, and delivering enterprise-grade solutions with Microsoft Power Platform.
+
+Proven ability to learn quickly, collaborate effectively in Agile teams, and deliver impactful features for business clients.
+
+Currently working at **Kerv Digital**, responsible for building scalable web and cloud applications with custom solutions using .NET, Azure, Dynamics CRM. And I thrive on continuous learning, solving real-world problems with innovative technologies, and writing clean, maintainable code that scales.
 
 ## Highlights
 
